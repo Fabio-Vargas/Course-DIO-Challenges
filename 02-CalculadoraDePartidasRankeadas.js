@@ -17,8 +17,7 @@
         • Se Vitórias for maior ou igual a 140 = Imortal
       
       ### OUTPUT
-        • Ao final deve se exibir uma mensagem:
-        • "O Herói tem de saldo **{saldoVitorias}** e está no rank **{rank}**"
+        • Ao final deve se exibir uma mensagem: "O Herói tem de saldo **{saldoVitorias}** e está no rank **{rank}**"
 */
 
 
