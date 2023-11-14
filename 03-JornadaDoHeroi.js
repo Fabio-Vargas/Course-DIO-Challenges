@@ -11,11 +11,11 @@
       O herói começa em uma posição inicial e deve dar uma série de passos para atravessar a floresta até a caverna do dragão.
 
       ### INPUT
-        A posição inicial do herói na floresta (um número inteiro).
-        O número total de passos que o herói deve dar (um número inteiro).
+        • A posição inicial do herói na floresta (um número inteiro).
+        • O número total de passos que o herói deve dar (um número inteiro).
 
       ### OUTPUT
-        Imprima a posição final do herói após dar a quantidade de passos especificada.
+        • Imprima a posição final do herói após dar a quantidade de passos especificada.
 */
 
 
