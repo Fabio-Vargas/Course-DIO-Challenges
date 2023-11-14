@@ -23,12 +23,12 @@
       {100} : Este é o multiplicador constante que determina a escala geral de recompensa de XP. 
       Multiplicar pelo nível do monstro e pela dificuldade aumenta a recompensa em 100 vezes o valor do nível e da dificuldade.
 
-    ## INPUT
-      • O nível do monstro (um número inteiro).
-      • A dificuldade da batalha, representada por um valor de 1 a 100 (um número inteiro).
+      ### INPUT
+        • O nível do monstro (um número inteiro).
+        • A dificuldade da batalha, representada por um valor de 1 a 100 (um número inteiro).
 
-    ## OUTPUT
-      • Imprima a quantidade de XP ganhos após a batalha.
+      ### OUTPUT
+        • Imprima a quantidade de XP ganhos após a batalha.
 */
 
 
