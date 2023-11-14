@@ -27,9 +27,6 @@ let characterName = "HERO"
 let matchesResult = matches(963, 369) // matches(Victories, Defeats)
 
 
-// INPUT
-
-
 // PROCESSING
 function matches(victories, defeats)
 {
