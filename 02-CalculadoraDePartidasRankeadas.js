@@ -16,7 +16,7 @@
         • Se Vitórias for entre 120 e 139 = Ascendente
         • Se Vitórias for maior ou igual a 140 = Imortal
       
-      ### SAÍDA
+      ### OUTPUT
         • Ao final deve se exibir uma mensagem:
         • "O Herói tem de saldo **{saldoVitorias}** e está no rank **{rank}**"
 */
