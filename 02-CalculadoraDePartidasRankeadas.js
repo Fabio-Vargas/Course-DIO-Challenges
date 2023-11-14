@@ -1,5 +1,5 @@
 /*
-  # [Challenge 2] Calculadora de Partidas Rankeadas
+  # [Challenge] Calculadora de Partidas Rankeadas
 
     ## OBJECTIVE
       Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
