@@ -6,7 +6,7 @@
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, 
 depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
-Se XP for menor 1.000 = Bronze
+Se XP for menor que 1.000 = Bronze
 Se XP for entre 1.000 e 1.999 = Ferro
 Se XP for entre 2.000 e 3.999 = Aço
 Se XP for entre 4.000 e 5.999 = Prata
