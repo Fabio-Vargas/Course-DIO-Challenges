@@ -10,11 +10,11 @@
         Use loops e lógica de programação para representar cada golpe na rocha e determinar qual minério foi obtido.
 
         ### INPUT
-          O programa irá solicitar que você digite um número inteiro positivo representando a quantidade de golpes que você deseja dar com a picareta.
+          • O programa irá solicitar que você digite um número inteiro positivo representando a quantidade de golpes que você deseja dar com a picareta.
 
         ### OUTPUT
-          Para cada golpe que você der, o programa exibirá uma mensagem indicando o resultado do golpe. 
-          Será mostrado o número do golpe e o minério obtido, que pode ser 1: Carvao, 2: Ferro, 3: Diamante e 4: Pedra.
+          • Para cada golpe que você der, o programa exibirá uma mensagem indicando o resultado do golpe. 
+          • Será mostrado o número do golpe e o minério obtido, que pode ser 1: Carvao, 2: Ferro, 3: Diamante e 4: Pedra.
 */
 
 
