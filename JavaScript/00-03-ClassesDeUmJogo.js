@@ -37,7 +37,7 @@ class hero {
   }
 
   attack() {
-    console.log("O herói do tipo " + hero.type + " atacou usando " + hero.attackType)
+    console.log(`O herói do tipo ${hero.type} atacou usando ${hero.attackType}`)
   }
 }
 
