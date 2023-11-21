@@ -1,25 +1,25 @@
 /*
-Faça um programa para calcular o valor de uma viagem.
+    Faça um programa para calcular o valor de uma viagem.
 
-Você terá 5 variáveis. Sendo elas:
-    • Preço da Gasolina
-    • Preço do Etanol
-    • Tipo de combustível abastecido
-    • Gasto médio de combustível por KM
-    • Distância da viagem em KM
+    Você terá 5 variáveis. Sendo elas:
+        • Preço da Gasolina
+        • Preço do Etanol
+        • Tipo de combustível abastecido
+        • Gasto médio de combustível por KM
+        • Distância da viagem em KM
 */
 
-let combustivelGasolinaPreco = 5.67
-let combustivelEtanolPreco = 4.56
-let combustivelTipo = "Gasolina"
-const KML_Gasolina = 13
+let fuelGasolinePrice = 5.67
+let fuelEtanolPrice = 4.56
+let fuelType = "Gasoline"
+const KML_Gasoline = 13
 const KML_Etanol = 10
-const viagemDistanciaKM = 1234
+const travelDistanceKM = 1234
 
-if (combustivelTipo === "Gasolina") {
-    const viagemCusto = (viagemDistanciaKM / KML_Gasolina) * combustivelGasolinaPreco
-    console.log("O custo da viagem com Gasolina será de: " + viagemCusto)
+if (fuelType === "Gasoline") {
+    const travelCost = (travelDistanceKM / KML_Gasoline) * fuelGasolinePrice
+    console.log("The fuel cost to travel using Gasoline is: R$ " + travelCost)
 } else {
-    const viagemCusto = (viagemDistanciaKM / KML_Etanol) * combustivelEtanolPreco
-    console.log("O custo da viagem com Etanol será de: " + viagemCusto)
+    const travelCost = (travelDistanceKM / KML_Etanol) * fuelEtanolPrice
+    console.log("The fuel cost to travel using Etanol is: R$ " + travelCost)
 }
