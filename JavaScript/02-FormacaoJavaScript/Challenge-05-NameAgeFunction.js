@@ -4,7 +4,7 @@
     Crie uma função "main" que chame ambas as funções anteriores.
 */
 
-function WriteUsername(name) {
+function WriteUserName(name) {
     return "Your name is " + name
 }
 
@@ -17,7 +17,7 @@ function VerifyAge(age) {
 }
 
 function main(name, age) {
-    console.log(WriteUsername(name) + " and " + VerifyAge(age))
+    console.log(WriteUserName(name) + " and " + VerifyAge(age))
 }
 
 main("Fabio", 20)
