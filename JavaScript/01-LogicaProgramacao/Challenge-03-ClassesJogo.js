@@ -24,3 +24,26 @@
                         ex: mago atacou usando magia
                         ex: guerreiro atacou usando espada
 */
+
+class hero {
+    constructor(name, age, type, attackType) {
+        this.name = name
+        this.age = age
+        this.type = type
+        this.attackType = attackType
+    }
+    
+    attack() {
+        console.log(`O herói do tipo ${this.type} atacou usando ${this.attackType}`)
+    }
+}
+
+let mage = new hero("Merlin", 80, "Mago", "Magia")
+let warrior = new hero("Aragorn", 35, "Guerreiro", "Espada")
+let monk = new hero("Jack Chan", 30, "Monge", "Artes Marciais")
+let ninja = new hero("Naruto", 20, "Ninja", "Shuriken")
+    
+mage.attack()
+warrior.attack()
+monk.attack()
+ninja.attack()
