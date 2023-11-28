@@ -1,11 +1,11 @@
 /*
     # [Challenge] Geração de Biomas em um Mundo de Blocos
 
-      ## INSTRUCTIONS
+      ## DESCRIPTION
         Você é um mestre construtor em um mundo de blocos e tem a tarefa de gerar biomas em diferentes regiões do mundo. 
         Cada bioma tem características únicas, como tipos de solo, vegetação e clima.
 
-      ## OBJECTIVE
+      ## INSTRUCTIONS
         Sua tarefa é coletar minérios enquanto ataca uma rocha com sua picareta. 
         Use loops e lógica de programação para representar cada golpe na rocha e determinar qual minério foi obtido.
 
