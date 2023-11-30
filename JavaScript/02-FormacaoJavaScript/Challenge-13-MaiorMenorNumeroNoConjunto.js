@@ -32,6 +32,3 @@ for (let index = 0; index < listaNumeros; index++) {
 
 print("Maior numero Par: " + maiorNumeroPar)
 print("Menor numero Impar: " + menorNumeroImpar
-  
-
-          
