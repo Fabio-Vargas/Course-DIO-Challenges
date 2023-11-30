@@ -24,9 +24,7 @@ for (let index = 0; index < listaNumeros; index++) {
       maiorNumeroPar = numero
     }
   } else {
-    if (menorNumeroImpar === 0) {
-      menorNumeroImpar = numero
-    } else if (numero < menorNumeroImpar) {
+    if (menorNumeroImpar === null || numero < menorNumeroImpar) {
       menorNumeroImpar = numero
     }
   }
